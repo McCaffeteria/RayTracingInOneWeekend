@@ -1,6 +1,5 @@
 #pragma once
-class vec3
-{
+class vec3 {
 	double e[3];
 
 public:
